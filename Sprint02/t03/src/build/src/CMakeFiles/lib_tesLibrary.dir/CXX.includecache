@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/akostanda/Sprint02/t03/src/tesLibrary.cpp
+tesLibrary.h
+/Users/akostanda/Sprint02/t03/src/tesLibrary.h
+
+/Users/akostanda/Sprint02/t03/src/tesLibrary.h
+iostream
+-
+map
+-
+fstream
+-
+string
+-
+regex
+-
+
