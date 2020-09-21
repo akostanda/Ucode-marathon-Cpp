@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/akostanda/Sprint06/t00/app/src/mightyWizard.cpp
+mightyWizard.h
+/Users/akostanda/Sprint06/t00/app/src/mightyWizard.h
+
+/Users/akostanda/Sprint06/t00/app/src/mightyWizard.h
+iostream
+-
+string
+-
+

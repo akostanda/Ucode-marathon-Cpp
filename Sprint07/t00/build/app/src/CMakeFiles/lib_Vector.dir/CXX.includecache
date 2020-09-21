@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/akostanda/Sprint07-2/t00/app/src/Vector.cpp
+Vector.h
+/Users/akostanda/Sprint07-2/t00/app/src/Vector.h
+
+/Users/akostanda/Sprint07-2/t00/app/src/Vector.h
+iostream
+-
+algorithm
+-
+memory
+-
+
